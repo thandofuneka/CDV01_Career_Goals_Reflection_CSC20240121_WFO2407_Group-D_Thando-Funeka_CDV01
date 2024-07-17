@@ -1,18 +1,5 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# CDV01 #
 
 ### Personal Information
 
@@ -52,51 +39,45 @@ By completing this reflection, you will gain a clearer understanding of your car
     - AWS Cloud Computing 
     - Full Stack Software Development
     - JavaScript Engineer
-    - Note any particular areas that piqued your interest.
+    
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    AWS Cloud Computing -With a background in Maths and Science, along with my Software Development studies, provide a strong foundation in problem-solving and analytical thinking, which are crucial for cloud computing, but I still need to learn AWS tools and services and cloud infrastructure. 
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - In the next year I would like to have made projects for my portfolio and work on getting an internship level position because without University level education an Internship is a great way to get my foot into the world of Software Development and have a strong portfolio might do just the trick. I would also like to have got an AWS Cloud Computing Certificate as a way to add an in demand skill.
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - In 3-5 years I see myself as a Junior Level Software Developer being a part of a team helping the world transition into the world of technology and also do freelance work to create a way for me working for myself and setting my own working time because it can give me a chance to travel around the world.
+    
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - I have to work hard and understand the basics of everything I am taught and try to adopt it and try add my personal style to it to figure out which works well for me and find out my target market.
+    - I have to find new and fresh ideas for a portfolio and do proper research about what companies are looking for and how to structure my CV.
+    - Work on other skills that I may need to be able to employable.
+    - Save up for the AWS exam and study bit by bit until I am ready to take it.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - I would have to work on getting a Associate Certificate in Software Development and to never stop learning and keep finding skills to learn and improve.
+    - Get through an Internship program and get a Junior position and also create a freelance profile showcasing my skills and portfolio. 
+    
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Time Management because I will still be studying for an AWS exam while still in the program but I can dedicate an hour or 2 towards the AWS exam with my main priority still the program.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - I would watch vlogs of people who went through this program and also connect with people already in the industry on Linkedin.
 
-### Submission
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
