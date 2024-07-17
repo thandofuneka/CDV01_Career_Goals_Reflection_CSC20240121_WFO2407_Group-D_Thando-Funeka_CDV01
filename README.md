@@ -16,27 +16,42 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Thando Funeka**
+- **Date: 17 July 2024**
+- **Current Role/Position:Software Development Student**
+- **Field of Interest: Front-End Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    *Current Skills*
+    - Microsoft Excel
+    - Power BI
+    - Analysis
+    *Skills to Improve*
+    - HTML
+    - CSS 
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    *Key Interests*
+    - Making people's imaginations come to life
+    - Making life easier for everyone
+
+    *Important values in a work environment?*
+    - A safe space where I'll be able learn and grow
+    - Understanding and clear communication between management and employees
+    - Diversity
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
+    *Industries or roles I have researched*
+    - AWS Cloud Computing 
+    - Full Stack Software Development
+    - JavaScript Engineer
     - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
