@@ -6,7 +6,7 @@
 - **Name: Thando Funeka**
 - **Date: 17 July 2024**
 - **Current Role/Position:Software Development Student**
-- **Field of Interest: Front-End Software Development**
+- **Field of Interest: Back-End Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
@@ -52,7 +52,7 @@
     
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - In 3-5 years I see myself as a Junior Level Software Developer being a part of a team helping the world transition into the world of technology and also do freelance work to create a way for me working for myself and setting my own working time because it can give me a chance to travel around the world.
+    - In 3-5 years I see myself as a Junior Level Backend Developer being a part of a team helping the world transition into the world of technology and also do freelance work to create a way for me working for myself and setting my own working time because it can give me a chance to travel around the world.
     
 
 ### Part 4: Action Plan
